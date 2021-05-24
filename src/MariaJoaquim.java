@@ -19,14 +19,14 @@ public class MariaJoaquim {
         Scanner scanner = new Scanner(System.in);
 
 
-        String x = scanner.nextLine();
+        String x = scanner.next();
         double idade = scanner.nextDouble();
-        String y = scanner.nextLine();
+        String y = scanner.next();
         double idade2 = scanner.nextDouble();
 
         double resolucao = (idade + idade2) / 2;
 
-        System.out.println("A idade média" + x + "e " + y + "é de " + resolucao );
+        System.out.println("A idade média de " + x + " e " + y + " é de " + resolucao + " Anos ");
 
         scanner.close();
     }
