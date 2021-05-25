@@ -16,3 +16,13 @@ Lista de exercicios
 
 1015 - sqrt, pow
 
+Lista de exercs extra
+
+1018 - mod
+
+1020 - mod
+
+1021 - mod / (desafio - casting)
+
+1061 - mod / string (desafio - interpretação)
+
