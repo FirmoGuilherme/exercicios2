@@ -69,14 +69,14 @@ public class Ex1018 {
         double k = j/2;
         double l = j%2;
 
-        System.out.printf("%.3s%n", X);
-        System.out.printf("%.1s nota(s) de R$ 100,00%n", a);
-        System.out.printf("%.1s nota(s) de R$ 50,00%n", c);
-        System.out.printf("%.1s nota(s) de R$ 20,00%n", e);
-        System.out.printf("%.1s nota(s) de R$ 10,00%n", g);
-        System.out.printf("%.1s nota(s) de R$ 5,00%n", i);
-        System.out.printf("%.1s nota(s) de R$ 2,00%n", k);
-        System.out.printf("%.1s nota(s) de R$ 1,00%n", l);
+        System.out.printf("%.0f%n", X);
+        System.out.printf("%.3s nota(s) de R$ 100,00%n", a);
+        System.out.printf("%.0f nota(s) de R$ 50,00%n", c);
+        System.out.printf("%.0f nota(s) de R$ 20,00%n", e);
+        System.out.printf("%.0f nota(s) de R$ 10,00%n", g);
+        System.out.printf("%.0f nota(s) de R$ 5,00%n", i);
+        System.out.printf("%.0f nota(s) de R$ 2,00%n", k);
+        System.out.printf("%.0f nota(s) de R$ 1,00%n", l);
 
         scanner.close();
 
