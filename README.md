@@ -31,7 +31,7 @@ Joaquim 20				A idade média de Maria e Joaquim é de 19.5 anos   //
 ------------------------------------------------------------- // ----------------------------------------------------------------------------------------
 
 
-Lista de exercs extra
+Lista de exercicios extra
 
 1019 - mod
 
@@ -42,4 +42,7 @@ Lista de exercs extra
 1021 - mod / (desafio - casting)
 
 1061 - mod / string (desafio - interpretação)
+
+
+Desenvolvedores: Firmo e Lucas.
 
