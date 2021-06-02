@@ -57,7 +57,7 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1044">1044</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1046">1046</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1046">1046</a>
  
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1048">1048</a>
 
