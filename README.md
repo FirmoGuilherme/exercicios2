@@ -52,31 +52,51 @@ Desenvolvedores: Firmo e Lucas.
 <h3> Primeiro Grupo </h3>
 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1035">1035</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1038">1038</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1044">1044</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1046">1046</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1048">1048</a>
+
 
 <h3> Segundo Grupo </h3>
 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1037">1037</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1040">1040</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1041">1041</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1045">1045</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1047">1047</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1049">1049</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1051">1051</a>
+
 
 <h3> Exercícios suplementares </h3>
 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1042">1042</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1043">1043</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1050">1050</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1052">1052</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1060">1060</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1064">1064</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1065">1065</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1066">1066</a>
+ 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1070</a>
 
 
