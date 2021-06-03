@@ -19,8 +19,7 @@ public class Ex1040 {
         } else if (media < 7 && media >= 5) {
             System.out.println("Media: " + media);
             System.out.println("Aluno em exame.");
-            double notaExame = scanner.nextDouble();
-            System.out.println("Nota do exame: " + notaExame);
+            System.out.print("Nota do exame: ");  double notaExame = scanner.nextDouble();
             media = (media + notaExame) / 2;
             if (media >= 5) {
                 System.out.println("Aluno aprovado.");
@@ -31,7 +30,8 @@ public class Ex1040 {
             System.out.println("Media final: " + media);
         } else {
             System.out.println("Aluno reprovado.");
-        } scanner.close();
+        }
+        scanner.close();
     }
 }
 
