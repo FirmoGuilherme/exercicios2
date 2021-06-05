@@ -81,7 +81,7 @@ Desenvolvedores: Firmo e Lucas.
 
 <h3> Exercícios suplementares </h3>
 
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1042">1042</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1042">1042</a>
  
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1043">1043</a>
  
