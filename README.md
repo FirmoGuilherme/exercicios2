@@ -76,7 +76,7 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1049">1049</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1051">1051</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1051">1051</a>
 
 
 <h3> Exercícios suplementares </h3>
