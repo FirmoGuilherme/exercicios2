@@ -97,6 +97,6 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1066">1066</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1070</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1070</a>
 
 
