@@ -99,4 +99,27 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1070</a>
 
+# exercicios 4
+
+<h3> Primeiro grupo <h3>
+
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1114</a>
+ 
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1115</a>
+ 
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1117</a>
+ 
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1134</a>
+ 
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1154</a>
+ 
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1159</a>
+
+<h3> Segundo grupo <h3>
+
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1118</a>
+
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1131</a>
+
+
 
