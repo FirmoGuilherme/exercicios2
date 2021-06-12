@@ -103,23 +103,23 @@ Desenvolvedores: Firmo e Lucas.
 
 <h3> Primeiro grupo <h3>
 
--[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1114</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1114">1114</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1115</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1115">1115</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1117</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1117">1117</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1134</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1134">1134</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1154</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1154">1154</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1159</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1159">1159</a>
 
 <h3> Segundo grupo <h3>
 
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1118</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1118">1118</a>
 
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1070">1131</a>
+-[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1131">1131</a>
 
 
 
