@@ -113,7 +113,7 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1154">1154</a>
  
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1159">1159</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1159">1159</a>
 
 <h3> Segundo grupo <h3>
 
