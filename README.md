@@ -118,8 +118,16 @@ Desenvolvedores: Firmo e Lucas.
 <h3> Segundo grupo <h3>
 
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1118">1118</a>
-
+ 
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1131">1131</a>
+
+# exercicios 5
+
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1072">1072</a>
+ 
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1074">1074</a>
+
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1079">1079</a>
 
 
 
