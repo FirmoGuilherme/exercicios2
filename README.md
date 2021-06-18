@@ -101,7 +101,7 @@ Desenvolvedores: Firmo e Lucas.
 
 # exercicios 4
 
-<h3> Primeiro grupo <h3>
+<h3> Primeiro grupo </h3>
 
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1114">1114</a>
  
@@ -115,7 +115,7 @@ Desenvolvedores: Firmo e Lucas.
  
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1159">1159</a>
 
-<h3> Segundo grupo <h3>
+<h3> Segundo grupo </h3>
 
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1118">1118</a>
  
