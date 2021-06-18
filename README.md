@@ -129,7 +129,7 @@ Desenvolvedores: Firmo e Lucas.
 
 -[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1079">1079</a>
 
--[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1116">1116</a>
+-[x] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1116">1116</a>
 
 -[ ] <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1132">1132</a>
 
